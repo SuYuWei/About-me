@@ -9,6 +9,7 @@
 
 ### 工作經歷
 * 三竹資訊 (2016/6 - 2017/1) Web 前端工程師
+[Qmi](https://www.qmi.emome.net/) 桌機版及後台開發
 * [Aircom](http://www.aircom4u.com/) (2014/11 - 2016/4) 工程師
 
 ###自我學習
@@ -28,22 +29,29 @@
 
 ### 作品
 
-[Javascript 30Days](https://suyuwei.github.io/javascript30days/)  
-連續30天寫一個簡單的Javascript小應用
+* [Javascript 30Days](https://suyuwei.github.io/javascript30days/)  
+連續30天每天寫一個簡單的Javascript小應用
 
-NodeJS 網路爬蟲
+* Load 1000 images smartly  
+lazyload、
+Maximun Image Display、
+Pagination
 
-[ToDoList](https://suyuwei.github.io/ToDoList/)  
-ToDoList串接Firebase練習
+* NodeJS 網路爬蟲  
+parse url抓取網站Title、Description、Image製做縮圖
 
-[選取大頭照範圍](https://codepen.io/YuWeiSu/pen/XKpKNr)  
+* [ToDoList](https://suyuwei.github.io/ToDoList/)  
+熟悉Firebase API 建構Realtime後端服務
+
+* [選取大頭照範圍](https://codepen.io/YuWeiSu/pen/XKpKNr)  
 用Canvas來選取圖片分割的範圍
 
-[Agar遊戲團隊網站](https://agar-pokertaiwan.rhcloud.com/)  
+* [Agar遊戲團隊網站](https://agar-pokertaiwan.rhcloud.com/)  
+遊戲Agar.io 台灣團隊的網頁製作
 
-[Aircom WebSite](http://www.aircom4u.com/)  
+* [Aircom WebSite](http://www.aircom4u.com/)  
+公司網站製作與維護
 
-[互動多媒體專題: ](https://www.youtube.com/watch?v=0XdyCJ-FSuk&feature=youtu.be)  
-利用arduino板製作搖桿，來操控向上跳雲的遊戲。
+* [互動多媒體專題: ](https://www.youtube.com/watch?v=0XdyCJ-FSuk&feature=youtu.be)  
+利用arduino製作搖桿，來操控向上跳雲的遊戲。
 
-[課程其他作品: ](http://hwshow-42.blogspot.tw/search/label/498511259%E8%98%87%E6%98%B1%E7%91%8Bhttp://hwshow-42.blogspot.tw/search/label/498511259%E8%98%87%E6%98%B1%E7%91%8B)  
