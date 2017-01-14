@@ -11,6 +11,13 @@
 * 三竹資訊 (2016/6 - 2017/1) Web 前端工程師
 * [Aircom](http://www.aircom4u.com/) (2014/11 - 2016/4) 工程師
 
+###自我學習
+* 讀書會分享 [Firebase](http://slides.com/suyuwei/deck#/)
+* 參加 [JSDC2016](http://2016.jsdc.tw/agenda.html) 
+* 持續關注各個前端社團了解新技術及交流
+* 從Udemy研究不同技術 
+像是 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/?siteID=ETbQ5kidDa0-_ueIUZXnplsxnFKlFuyE4w&LSNPUBID=ETbQ5kidDa0#/reviews) 、 [Facebook ChatBots](https://www.udemy.com/chatbots-how-to-make-chat-bot-for-facebook-messenger/learn/v4/overview)等課程
+
 ### 專業技能
 * HTML / CSS / Javascript
 * JQuery
@@ -28,6 +35,9 @@ NodeJS 網路爬蟲
 
 [ToDoList](https://suyuwei.github.io/ToDoList/)  
 ToDoList串接Firebase練習
+
+[選取大頭照範圍](https://codepen.io/YuWeiSu/pen/XKpKNr)  
+用Canvas來選取圖片分割的範圍
 
 [Agar遊戲團隊網站](https://agar-pokertaiwan.rhcloud.com/)  
 
