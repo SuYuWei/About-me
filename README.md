@@ -8,7 +8,7 @@
 * [Github](https://github.com/SuYuWei/)  
 
 ### 工作經歷
-* 三竹資訊 (2016/6 - 2017/1) Web 前端工程師
+* 三竹資訊 (2016/6 - 2017/1) Web 前端工程師  
 [Qmi](https://www.qmi.emome.net/) 桌機版及後台開發
 * [Aircom](http://www.aircom4u.com/) (2014/11 - 2016/4) 工程師
 
@@ -51,6 +51,12 @@ parse url抓取網站Title、Description、Image製做縮圖
 
 * [Aircom WebSite](http://www.aircom4u.com/)  
 公司網站製作與維護
+
+
+###在學作品
+
+* 擴增實境在GCM實作Android通訊程式之應用  
+利用Google Cloud Messaging所提供的服務，在Android應用程式中實作訊息傳送的功能，並加入擴增實境讓人與人之間透過應用程式和其他使用者互動，增加趣味性。
 
 * [互動多媒體專題: ](https://www.youtube.com/watch?v=0XdyCJ-FSuk&feature=youtu.be)  
 利用arduino製作搖桿，來操控向上跳雲的遊戲。
